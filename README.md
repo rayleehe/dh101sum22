@@ -1,4 +1,4 @@
-#Sentiment Analysis on Four Political Subreddits
+# Sentiment Analysis on Four Political Subreddits
 
 ![Headline Sentiment](https://github.com/rayleehe/dh101sum22/blob/main/headline%20sentiment%20bxplt.png)
 ![Comment Sentiment](https://github.com/rayleehe/dh101sum22/blob/main/headline%20sentiment%20bxplt.png)
