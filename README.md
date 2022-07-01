@@ -1,5 +1,6 @@
 # Sentiment Analysis on Four Political Subreddits
 #### Research Question: Do different political subreddits have measurable differences in sentiment (positive/negative) when communicating about the same current evennts?
+#### All applicable code and data for this project is found in the jupyter notebook attached.
 ###### Note: Results may vary from the following images as code pulls most recent data from Reddit.
 #### Results from June 30, 10AM PST:
 
