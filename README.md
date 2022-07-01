@@ -1,5 +1,7 @@
 # Sentiment Analysis on Four Political Subreddits
 #### Research Question: Do different political subreddits have measurable differences in sentiment (positive/negative) when communicating about the same current evennts?
+###### Note: Results may vary from the following images as code pulls most recent data from Reddit.
+#### Results from June 30, 10AM PST:
 
 ![Headline Sentiment](https://github.com/rayleehe/dh101sum22/blob/main/headline%20sentiment%20bxplt.png)
 ![Comment Sentiment](https://github.com/rayleehe/dh101sum22/blob/main/headline%20sentiment%20bxplt.png)
