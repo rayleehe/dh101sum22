@@ -1,6 +1,7 @@
 Sentiment Analysis on Four Political Subreddits
 
 ![Headline Sentiment](https://github.com/rayleehe/dh101sum22/blob/main/headline%20sentiment%20bxplt.png)
+![Comment Sentiment](https://github.com/rayleehe/dh101sum22/blob/main/headline%20sentiment%20bxplt.png)
 
 Abstract: This project used VADER lexicon sentiment analysis to look at different political subreddit headlines and top-level comments. The goal of this project was to determine whether different political subreddits react in measurably different ways to the same current events. To achieve this, Reddit API was used to pull a list of headlines and comments from the subreddits: r/Politics, r/PoliticalCompassMemes, r/SandersForPresident, and r/Conservative. r/Politics and r/PoliticalCompassMemes were chosen as these communities are meant to represent all kinds of ideologies and thus should be neutral. r/SandersForPresident and r/Conservative were chosen as these communities are the largest left leaning and right leaning subreddits.
 
